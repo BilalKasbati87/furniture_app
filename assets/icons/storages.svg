@@ -1,0 +1,39 @@
+<svg id="XMLID_586_" xmlns="http://www.w3.org/2000/svg" width="21.134" height="18.212" viewBox="0 0 21.134 18.212">
+  <g id="XMLID_578_">
+    <g id="XMLID_695_">
+      <path id="XMLID_24_" d="M873.49,606.868H853.444a.543.543,0,0,1-.544-.544V596.044a.543.543,0,0,1,.544-.544H873.49a.543.543,0,0,1,.544.544v10.281A.543.543,0,0,1,873.49,606.868Zm-19.5-1.087h18.969v-9.193H853.987Z" transform="translate(-852.9 -595.5)"/>
+    </g>
+  </g>
+  <g id="XMLID_580_" transform="translate(12.329 0.544)">
+    <g id="XMLID_694_">
+      <rect id="XMLID_792_" width="1.087" height="10.281"/>
+    </g>
+  </g>
+  <g id="XMLID_581_" transform="translate(0.544 5.135)">
+    <g id="XMLID_693_">
+      <rect id="XMLID_791_" width="12.329" height="1.087"/>
+    </g>
+  </g>
+  <g id="XMLID_582_" transform="translate(5.728 2.641)">
+    <g id="XMLID_692_">
+      <rect id="XMLID_790_" width="1.961" height="1.087"/>
+    </g>
+  </g>
+  <g id="XMLID_583_" transform="translate(5.728 7.786)">
+    <g id="XMLID_691_">
+      <rect id="XMLID_789_" width="1.961" height="1.087"/>
+    </g>
+  </g>
+  <g id="XMLID_579_" transform="translate(0.171 10.611)">
+    <g id="XMLID_584_">
+      <g id="XMLID_690_">
+        <path id="XMLID_788_" d="M857.174,712.4h-1.961a.547.547,0,0,1-.437-.214.523.523,0,0,1-.087-.476l1.961-6.854,1.048.3-1.757,6.155h.874l2.718-6.514,1,.417-2.854,6.854A.541.541,0,0,1,857.174,712.4Z" transform="translate(-854.666 -704.8)"/>
+      </g>
+    </g>
+    <g id="XMLID_585_" transform="translate(14.924)">
+      <g id="XMLID_689_">
+        <path id="XMLID_787_" d="M1013.71,712.4h-1.951a.556.556,0,0,1-.5-.33l-2.854-6.854,1-.417,2.718,6.514h.874l-1.757-6.155,1.048-.3,1.961,6.854a.553.553,0,0,1-.087.476A.58.58,0,0,1,1013.71,712.4Z" transform="translate(-1008.4 -704.8)"/>
+      </g>
+    </g>
+  </g>
+</svg>
